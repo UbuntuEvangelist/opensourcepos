@@ -23,7 +23,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"bootstrap": "^3.4.1",
+		"bootstrap": "^5.0.0",
 		"bootstrap-daterangepicker": "^2.1.27",
 		"bootstrap-datetime-picker": "2.4.4",
 		"bootstrap-notify": "^3.1.3",
